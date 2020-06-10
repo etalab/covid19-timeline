@@ -1,4 +1,4 @@
-/* Copyright (c) 2016-2018 Molly White */
+/* Copyright (c) 2016-2020 Molly White */
 /* MIT License */
 /* Source: https://github.com/molly/wikimedia-timeline */
 

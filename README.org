@@ -1,14 +1,13 @@
-#+TITLE: ox-html-timeline.el
+#+TITLE: Chronologie des contributions d'Etalab pendant la crise Covid-19
 
-* Quick start
+Ce dépôt contient une présentation des contributions d'[[https://www.etalab.gouv.fr/][Etalab]] à
+l'information des citoyens pendant la pandémie Covid-19.
 
-1. Load the =ox-html-timeline.el=
-2. Go to the =example/=
-3. Hit =C-c C-e n N= to export =index.org=
-4. Navigate to =index.html=
-5. Hit =C-c C-v= to preview the html output
+Le contenu est en cours d'évolution.
 
-* License
+* Licence
 
-=ox-html-timeline.el= is licensed under the [[file:LICENSE.txt][GNU GPLv3 license]] or any
-later version.
+© DINUM, Etalab, Bastien Guerry et autres contributeurs.
+
+Le contenu de ce dépôt est placé sous [[file:LICENSE.md][licence Ouverte 2.0]].
+
