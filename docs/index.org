@@ -14,8 +14,6 @@ pandémie Covid-19.
   :data-category: Données
   :icon-color: green
   :fa-icon: fa-plus
-  # :image-src: 
-  # :image-caption: Image du jeu de données
   :date: <2020-03-10 mar.>
   :END:
 
@@ -29,8 +27,6 @@ Données : https://www.data.gouv.fr/fr/admin/dataset/5e689ada634f4177317e4820/
   :data-category: Données
   :icon-color: green
   :fa-icon: fa-plus
-  :image-src: 
-  :image-caption: 
   :date: <2020-03-12 jeu.>
   :END:
 
@@ -45,13 +41,130 @@ Données : https://www.data.gouv.fr/fr/datasets/chiffres-cles-concernant-lepidem
   :data-category: Infrastructure
   :icon-color: green
   :fa-icon: fa-plus
-  # :image-src: 
-  # :image-caption: 
   :date: <2020-03-16 lun.>
   :END:
 
 Etalab travaillait depuis longtemps sur la version 2.0 de [[https://github.com/opendatateam/udata][udata]].
 L'équipe effectue la migration vers cette nouvelle version.
+
+* Ouverture des données de geodes.santepubliquefrance.fr
+  :PROPERTIES:
+  :data-category: Infrastructure
+  :icon-color: green
+  :fa-icon: fa-plus
+  :date: <2020-03-18 mer.>
+  :END:
+
+Etalab travaille avec Santé Publique France à l'ouverture des données
+mises à disposition sur le site https://geodes.santepubliquefrance.fr.
+
+* Création d'une organisation pour Santé Publique France
+  :PROPERTIES:
+  :data-category: Infrastructure
+  :icon-color: green
+  :fa-icon: fa-plus
+  :date: <2020-03-19 jeu.>
+  :END:
+
+Publication par Etalab des données SPF sur une nouvelle organisation
+SPF de data.gouv.fr (les fichiers publiés sont récupérés manuellement
+depuis geodes).
+
+Provision d’un serveur data.gouv.fr pour réceptionner les données de
+SPF, mise en place de la sychronisation entre les fichiers de SPF et
+un répertoire de ce serveur (les données SPF ne sont pas encore
+disponibles).
+
+* Amorce du travail sur l'algorithme d'orientation Covid-19
+  :PROPERTIES:
+  :data-category: Algorithmes
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: https://raw.githubusercontent.com/Delegation-numerique-en-sante/covid19-algorithme-orientation/master/demonstrateur.png
+  :image-caption: Capture d'écran du démonstration de l'algorithme d'orientation Covid-19
+  :date: <2020-03-20 ven.>
+  :END:
+
+Héla Ghariani (de la Délégation numérique en Santé au ministère de la
+Santé) sollicite les développeurs de la DINUM pour de l'aide sur la
+publication de l'algorithme d'orientation Covid-19, algorithme déjà
+utilisé sur sur le site https://maladiecoronavirus.fr.
+
+* Début des travaux sur une application d'orientation Covid-19
+  :PROPERTIES:
+  :data-category: Applications
+  :icon-color: green
+  :fa-icon: fa-plus
+  :date: <2020-03-31 mar.>
+  :END:
+
+Échanges entre Etalab avec le Service d'information du gouvernement
+pour élaborer un questionnaire d'orientation similaire à celui qui est
+disponible sur https://maladiecoronavirus.fr, reprenant l'algorithme
+d'orientation tel qu'il est documenté sur [[https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation][ce dépôt]].
+
+* Mise en ligne de l'application d'orientation Covid-19
+  :PROPERTIES:
+  :data-category: Applications
+  :icon-color: green
+  :fa-icon: fa-plus
+  :image-src: https://raw.githubusercontent.com/etalab/covid19-timeline/master/docs/img/questionnaire-orientation.png
+  :image-caption: Page d'accueil du questionnaire d'orientation Covid-19
+  :date: <2020-04-08 mer.>
+  :END:
+
+Le service d'information du gouvernement met en production une
+première version du [[https://www.gouvernement.fr/info-coronavirus/orientation-medicale][questionnaire d'orientation]] développé par Etalab.
+
+* Partage des données du questionnaire d'orientation avec l'institut Pasteur
+  :PROPERTIES:
+  :data-category: Données
+  :icon-color: green
+  :fa-icon: fa-plus
+  :date: <2020-04-13 lun.>
+  :END:
+
+Etalab partage les premières données reçues depuis le questionnaire
+d'orientation Covid-19 avec l'institut Pasteur.
+
+* Point de contact avec les auteurs d'AlloCovid
+  :PROPERTIES:
+  :data-category: Algorithmes
+  :icon-color: green
+  :fa-icon: fa-plus
+  :date: <2020-04-28 mar.>
+  :END:
+
+Les auteurs d'AlloCovid se sont appuyés sur la [[https://github.com/Delegation-numerique-en-sante/covid19-algorithme-orientation][documentation de
+l'algorithme d'orientation Covid-19]].
+
+* Publication des données des foires aux questions ministérielles
+  :PROPERTIES:
+  :data-category: Données
+  :icon-color: green
+  :fa-icon: fa-plus
+  :date: <2020-06-09 mar.>
+  :END:
+
+Etalab accompagne le service d'information du gouvernement dans la
+publication des contenus des foires aux questions publiées par les
+sites de l'État lors de la lutte contre la pandémie Covid-19.
+
+Données : https://www.data.gouv.fr/fr/datasets/foires-aux-questions-publiees-par-les-administrations-dans-le-cadre-de-la-gestion-de-la-pandemie-covid-19/
+
+* « Comment les administrations ont collaboré à l’ouverture des données du Coronavirus : le cas français »
+  :PROPERTIES:
+  :data-category: Publications
+  :icon-color: green
+  :fa-icon: fa-plus
+  :date: <2020-06-09 mar.>
+  :END:
+
+Etalab publie un article de synthèse sur la façon dont les
+administrations ont collaboré à l'ouverture des données liées au
+Covid-19.
+
+Source : https://www.etalab.gouv.fr/comment-les-administrations-ont-collabore-a-louverture-des-donnees-du-coronavirus-le-cas-francais
 
 * Footer
 
