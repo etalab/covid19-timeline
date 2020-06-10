@@ -5,6 +5,8 @@ l'information des citoyens pendant la pandémie Covid-19.
 
 Le contenu est en cours d'évolution.
 
+Pour éditer le contenu, éditez le fichier source [[file:docs/index.org][index.org]].
+
 * Licence
 
 © DINUM, Etalab, Bastien Guerry et autres contributeurs.
