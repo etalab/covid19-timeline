@@ -1,12 +1,13 @@
-#+title: From LOGO to Sugarizer
-#+lang: en
-#+description: A timeline to demonstrate ox-html-timeline.el
+#+title: Contributions d'Etalab pendant la pandémie Covid-19
+#+lang: fr
+# #+description: Contributions d'Etalab pendant la pandémie Covid-19
 
 * Header
 
 # The Header section has to be named "Header".
 
-From Papert’s LOGO to Lionel Laske’s http://sugarizer.org.
+Chronologie des contributions d'[[https://www.etalab.gouv.fr/][Etalab]] à l'information pendant la
+pandémie Covid-19.
 
 * Seymour Papert creates LOGO
   :PROPERTIES:
@@ -70,6 +71,6 @@ Source : https://en.wikipedia.org/wiki/Smalltalk
 
 * Footer
 
-This is a footer.
+Retrouvez le code source de ce site sur [[https://github.com/etalab/covid19-timeline][ce dépôt]], publié sous licence libre.
 
 # The Footer section has to be named "Footer".
