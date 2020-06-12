@@ -224,7 +224,7 @@ Source : https://www.etalab.gouv.fr/comment-les-administrations-ont-collabore-a-
   :fa-icon: fa-plus
   :image-src: https://raw.githubusercontent.com/etalab/covid19-timeline/master/docs/img/tbd-entreprises.png
   :image-caption: Page d'accueil du tableau de bord entreprises
-  :date: <2020-06-13 mer.>
+  :date: <2020-06-12 mer.>
   :END:
 
 Mise à jour du [[https://aides-entreprises.data.gouv.fr/][tableau de bord]]
