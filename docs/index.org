@@ -171,23 +171,20 @@ l'algorithme d'orientation Covid-19]].
   :date: <2020-05-13 mer.>
   :END:
 
-Mise à jour conséquente du [[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite][tableau de bord]]
-des aides aux entreprises permettant de visualiser la répartition des aides financières. 
-S'ajoute alors à la visualisation des données du
-[[https://www.data.gouv.fr/fr/datasets/donnees-relatives-au-fonds-de-solidarite-mis-en-place-dans-le-cadre-de-lepidemie-de-covid-19/][Fonds de Solidarité]],
-celles des [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-prets-garantis-par-letat-dans-le-cadre-de-lepidemie-de-covid-19/][Prêts garantis par l'Etat]],
-et des [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-reports-decheances-fiscales-accordes-dans-le-cadre-de-lepidemie-de-covid-19/][Reports d'échéance fiscale]].
-Tous ces jeux de données sont publiés sur le portail [[https://data.gouv.fr][data.gouv.fr]]
+Mise à jour conséquente du [[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite][tableau de bord]] des aides aux entreprises
+permettant de visualiser la répartition des aides financières.
+S'ajoute alors à la visualisation des données du [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-au-fonds-de-solidarite-mis-en-place-dans-le-cadre-de-lepidemie-de-covid-19/][Fonds de Solidarité]],
+celles des [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-prets-garantis-par-letat-dans-le-cadre-de-lepidemie-de-covid-19/][Prêts garantis par l'Etat]], et des [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-reports-decheances-fiscales-accordes-dans-le-cadre-de-lepidemie-de-covid-19/][Reports d'échéance
+fiscale]].  Tous ces jeux de données sont publiés sur le portail
+[[https://data.gouv.fr][data.gouv.fr]]
 
-Intégration de ce tableau de bord "aides financières" au [[https://dashboard.covid19.data.gouv.fr/aides-entreprises?location=FRA][tableau de bord général]]
-ainsi qu'au portail du ministère de l'Economie sur les pages suivantes : 
-[[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite#]["prêts garantis par l'Etat"]],
-[[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-pge#]["prêts garantis par l'Etat"]],
-[[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-report-echeances#]["reports d'échéance"]]
+Intégration de ce tableau de bord "aides financières" au [[https://dashboard.covid19.data.gouv.fr/aides-entreprises?location=FRA][tableau de
+bord général]] ainsi qu'au portail du ministère de l'Economie sur les
+pages suivantes : [[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite#]["prêts garantis par l'Etat"]], [[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-pge#]["prêts garantis par
+l'Etat"]], [[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-report-echeances#]["reports d'échéance"]].
 
-Le code source du tableau de bord est en open source et publié sur [[https://github.com/etalab/dashboard-aides-entreprises][ce dépôt]]
-et [[https://etalab.github.io/dashboard-aides-entreprises/][documenté ici]]. 
-
+Le code source du tableau de bord est en open source et publié sur [[https://github.com/etalab/dashboard-aides-entreprises][ce
+dépôt]] et [[https://etalab.github.io/dashboard-aides-entreprises/][documenté ici]].
 
 * Publication des données des foires aux questions ministérielles
   :PROPERTIES:
@@ -227,24 +224,19 @@ Source : https://www.etalab.gouv.fr/comment-les-administrations-ont-collabore-a-
   :date: <2020-06-12 mer.>
   :END:
 
-Mise à jour du [[https://aides-entreprises.data.gouv.fr/][tableau de bord]]
-des aides aux entreprises permettant de visualiser la répartition des aides financières. 
-S'ajoute alors à la visualisation des données du
-[[https://www.data.gouv.fr/fr/datasets/donnees-relatives-au-fonds-de-solidarite-mis-en-place-dans-le-cadre-de-lepidemie-de-covid-19/][Fonds de Solidarité]],
-des [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-prets-garantis-par-letat-dans-le-cadre-de-lepidemie-de-covid-19/][Prêts garantis par l'Etat]],
-et des [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-reports-decheances-fiscales-accordes-dans-le-cadre-de-lepidemie-de-covid-19/][Reports d'échéance fiscale]].
-le jeu de données de [[][l'activité partielle]].
-Tous ces jeux de données sont publiés sur le portail [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-au-dispositif-dactivite-partielle-mis-en-oeuvre-dans-le-cadre-de-lepidemie-de-covid-19/][data.gouv.fr]]
+Mise à jour du [[https://aides-entreprises.data.gouv.fr/][tableau de bord]] des aides aux entreprises permettant de
+visualiser la répartition des aides financières.  S'ajoute alors à la
+visualisation des données du [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-au-fonds-de-solidarite-mis-en-place-dans-le-cadre-de-lepidemie-de-covid-19/][Fonds de Solidarité]], des [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-prets-garantis-par-letat-dans-le-cadre-de-lepidemie-de-covid-19/][Prêts garantis
+par l'Etat]], et des [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-reports-decheances-fiscales-accordes-dans-le-cadre-de-lepidemie-de-covid-19/][Reports d'échéance fiscale]].  Tous ces jeux de
+données sont publiés sur le portail [[https://www.data.gouv.fr/fr/datasets/donnees-relatives-au-dispositif-dactivite-partielle-mis-en-oeuvre-dans-le-cadre-de-lepidemie-de-covid-19/][data.gouv.fr]].
 
-Intégration de ce tableau de bord "aides financières" au [[https://dashboard.covid19.data.gouv.fr/aides-entreprises?location=FRA][tableau de bord général]]
-ainsi qu'au portail du ministère de l'Economie sur les pages suivantes : 
-[[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite#]["prêts garantis par l'Etat"]],
-[[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-pge#]["prêts garantis par l'Etat"]],
-[[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-report-echeances#]["reports d'échéance"]]
-[[https://www.economie.gouv.fr/covid19-soutien-entreprises/activite-partielle#]["activité partielle"]]
+Intégration de ce tableau de bord "aides financières" au [[https://dashboard.covid19.data.gouv.fr/aides-entreprises?location=FRA][tableau de
+bord général]] ainsi qu'au portail du ministère de l'Economie sur les
+pages suivantes : [[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite#]["prêts garantis par l'Etat"]], [[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-pge#]["prêts garantis par
+l'Etat"]], [[https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-report-echeances#]["reports d'échéance"]] [[https://www.economie.gouv.fr/covid19-soutien-entreprises/activite-partielle#]["activité partielle"]].
 
-Le code source du tableau de bord est en open source et publié sur [[https://github.com/etalab/dashboard-aides-entreprises][ce dépôt]] 
-et [[https://etalab.github.io/dashboard-aides-entreprises/][documenté ici]]. 
+Le code source du tableau de bord est en open source et publié sur [[https://github.com/etalab/dashboard-aides-entreprises][ce
+dépôt]] et [[https://etalab.github.io/dashboard-aides-entreprises/][documenté ici]].
 
 * Footer
 
